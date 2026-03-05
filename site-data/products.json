@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Cresus Casino",
+    "slug": "cresus-casino",
+    "affiliate_slug": "cresus",
+    "url": "https://www.cresuscasino.com",
+    "bonus": "150% jusqu'à 500€ + 20 Free Spins offerts",
+    "rating": 4.9,
+    "pros": [
+      "Retraits validés en 24h",
+      "Aucune condition de mise sur les bonus",
+      "Programme VIP d'exception"
+    ],
+    "cons": [
+      "Pas de support par téléphone",
+      "Catalogue de jeux de table limité"
+    ],
+    "category": "Meilleurs Casinos"
+  },
+  {
+    "name": "Lucky8",
+    "slug": "lucky8-casino",
+    "affiliate_slug": "lucky8",
+    "url": "https://www.lucky8.com",
+    "bonus": "200% jusqu'à 500€ sur votre premier dépôt",
+    "rating": 4.7,
+    "pros": [
+      "Interface moderne et fluide",
+      "Promotions quotidiennes variées",
+      "Sécurité de haut niveau"
+    ],
+    "cons": [
+      "Conditions de mise (wager) présentes",
+      "Moins de jeux de live casino"
+    ],
+    "category": "Bonus"
+  },
+  {
+    "name": "Tortuga Casino",
+    "slug": "tortuga-casino",
+    "affiliate_slug": "tortuga",
+    "url": "https://www.tortugacasino.com",
+    "bonus": "Jusqu'à 1200€ de pack de bienvenue",
+    "rating": 4.6,
+    "pros": [
+      "Thématique pirate immersive",
+      "Nombreux tournois exclusifs",
+      "Large choix de machines à sous"
+    ],
+    "cons": [
+      "Service client parfois lent",
+      "Limites de retrait pour les nouveaux joueurs"
+    ],
+    "category": "Meilleurs Casinos"
+  },
+  {
+    "name": "Winoui Casino",
+    "slug": "winoui-casino",
+    "affiliate_slug": "winoui",
+    "url": "https://www.winoui.com",
+    "bonus": "1000€ de bonus + 300 Free Spins",
+    "rating": 4.8,
+    "pros": [
+      "Bibliothèque de plus de 3000 jeux",
+      "Design épuré et très rapide",
+      "Bonus réguliers sans wager"
+    ],
+    "cons": [
+      "Pas de paris sportifs",
+      "Vérification d'identité stricte"
+    ],
+    "category": "Bonus"
+  },
+  {
+    "name": "Viggoslots",
+    "slug": "viggoslots-casino",
+    "affiliate_slug": "viggoslots",
+    "url": "https://www.viggoslots.com",
+    "bonus": "100% jusqu'à 400€ sans condition de mise",
+    "rating": 4.5,
+    "pros": [
+      "Bonus de bienvenue sans wager",
+      "Cashback hebdomadaire",
+      "Acceptation des cryptomonnaies"
+    ],
+    "cons": [
+      "Interface un peu datée",
+      "Délais de retrait variables"
+    ],
+    "category": "Meilleurs Casinos"
+  },
+  {
+    "name": "Madnix",
+    "slug": "madnix-casino",
+    "affiliate_slug": "madnix",
+    "url": "https://www.madnix.com",
+    "bonus": "Jusqu'à 300€ + 225 Free Spins sans wager",
+    "rating": 4.7,
+    "pros": [
+      "Retraits ultra-rapides",
+      "Zéro condition de mise sur tout le site",
+      "Support client très réactif"
+    ],
+    "cons": [
+      "Bonus de dépôt moins élevés",
+      "Peu de jeux de poker"
+    ],
+    "category": "Bonus"
+  },
+  {
+    "name": "Wild Sultan",
+    "slug": "wild-sultan-casino",
+    "affiliate_slug": "wildsultan",
+    "url": "https://www.wildsultan.com",
+    "bonus": "100% jusqu'à 500€ + 20 Free Spins",
+    "rating": 4.8,
+    "pros": [
+      "Taux de redistribution (RTP) en temps réel",
+      "Jackpots instantanés exclusifs",
+      "Fiabilité historique reconnue"
+    ],
+    "cons": [
+      "Interface mobile perfectible",
+      "Moins de bonus sans dépôt"
+    ],
+    "category": "Meilleurs Casinos"
+  }
+]
